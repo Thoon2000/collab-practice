@@ -1,3 +1,50 @@
 h1{ 
 background-color: aquamarine;
 }
+
+nav{
+
+    height: 100px;
+    width: 100%;
+    position: sticky;
+    background-color: black;
+}
+
+
+.row{
+
+display: grid;
+
+}
+
+
+col{
+
+float 
+
+}
+
+.container text-center {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #2196F3;
+    padding: 10px;
+  }
+
+  .col{
+    background-color: rgba(65, 84, 228, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+
+    
+ 
+
+footer{
+
+    height:100px;
+    width: 100%;
+    background-color: brown;
+
+}
