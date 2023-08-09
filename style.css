@@ -20,7 +20,7 @@ display: grid;
 
 col{
 
-float 
+    display: grid;
 
 }
 
@@ -38,7 +38,7 @@ float
     font-size: 30px;
     text-align: center;
 
-    
+  }
  
 
 footer{
